@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.8b35fef55fba1a201c9c7a11d3ec3d64?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f416610%2fscreenshots%2f4801105%2fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&ehk=jHHFsQPazqDd5nt3QW7%2b0gX0qLiQLNMcv%2fxeuKivQCs%3d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsinghgh&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsinghgh" /> </p>
 
-- 🔭 I’m currently working on **IntelliHire**
+- 🔭 I recently deployed **IntelliHire**
 
 - 📫 How to reach me **eshaansingh9410@gmail.com**
 
