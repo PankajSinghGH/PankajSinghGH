@@ -8,29 +8,19 @@
 - 📫 How to reach me **eshaansingh9410@gmail.com**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pankajsingh67/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40" />
-  </a>
 
-  <a href="https://leetcode.com/u/eshaansingh9410/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="LeetCode"
-      height="30"
-      width="40" />
-  </a>
-</p>
-  <a href="https://www.geeksforgeeks.org/user/eshaansikt6t/">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-      alt="GeeksforGeeks"
-      height="30"
-      width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/pankajsingh67/" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin" width="40" height="40">
+</a>
+
+<a href="https://leetcode.com/u/eshaansingh9410/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" width="40" height="40">
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/eshaansikt6t/" target="_blank">
+<img src="https://cdn.simpleicons.org/geeksforgeeks" width="40" height="40">
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
