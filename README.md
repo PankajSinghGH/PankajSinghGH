@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pankajsingh67/" target="_blank">
-    <img align="center"
+    <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
       height="30"
@@ -17,13 +17,13 @@
   </a>
 
   <a href="https://leetcode.com/u/eshaansingh9410/" target="_blank">
-    <img align="center"
+    <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="LeetCode"
       height="30"
       width="40" />
   </a>
-
+</p>
   <a href="https://www.geeksforgeeks.org/user/eshaansikt6t/">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
